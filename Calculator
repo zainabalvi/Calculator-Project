@@ -1,2 +1,14 @@
 Console.WriteLine("My name is Zainab Alvi");
 Console.WriteLine("My roll number is 24-ST-064");
+
+
+
+
+
+
+
+
+int a = 5;
+int b = 2;
+int Multiplication = a * b ;
+Console.WriteLine("Mutiply two number : a * b ");
